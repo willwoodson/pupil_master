@@ -1,0 +1,1143 @@
+<?xml version='1.0' encoding='ISO-8859-1'?>
+<?xml-stylesheet type='text/xsl' href='image_metadata_stylesheet.xsl'?>
+<dataset>
+<name>imglab dataset</name>
+<comment>Created by imglab tool.</comment>
+<images>
+  <image file='object/onject1.jpg'>
+    <box top='295' left='266' width='122' height='79'>
+      <label>sx</label>
+    </box>
+  </image>
+  <image file='object/onject10.jpg'>
+    <box top='315' left='148' width='93' height='59'>
+      <label>sx</label>
+    </box>
+  </image>
+  <image file='object/onject100.jpg'>
+  </image>
+  <image file='object/onject101.jpg'>
+  </image>
+  <image file='object/onject102.jpg'>
+    <box top='241' left='279' width='101' height='67'>
+      <label>sx</label>
+    </box>
+  </image>
+  <image file='object/onject103.jpg'>
+    <box top='370' left='200' width='120' height='59'>
+      <label>sx</label>
+    </box>
+  </image>
+  <image file='object/onject104.jpg'>
+    <box top='316' left='176' width='99' height='59'>
+      <label>sx</label>
+    </box>
+  </image>
+<!--  <image file='object/onject105.jpg'>-->
+<!--    <box top='260' left='218' width='49' height='61'>-->
+<!--      <label>sx</label>-->
+<!--    </box>-->
+<!--  </image>-->
+  <image file='object/onject106.jpg'>
+    <box top='320' left='148' width='73' height='53'>
+      <label>sx</label>
+    </box>
+  </image>
+  <image file='object/onject108.jpg'>
+    <box top='318' left='149' width='94' height='52'>
+      <label>sx</label>
+    </box>
+  </image>
+  <image file='object/onject109.jpg'>
+    <box top='322' left='143' width='92' height='58'>
+      <label>sx</label>
+    </box>
+  </image>
+  <image file='object/onject11.jpg'>
+    <box top='283' left='174' width='71' height='57'>
+      <label>sx</label>
+    </box>
+  </image>
+  <image file='object/onject110.jpg'>
+    <box top='294' left='274' width='104' height='53'>
+      <label>sx</label>
+    </box>
+  </image>
+  <image file='object/onject112.jpg'>
+    <box top='312' left='194' width='129' height='62'>
+      <label>sx</label>
+    </box>
+  </image>
+  <image file='object/onject113.jpg'>
+  </image>
+  <image file='object/onject115.jpg'>
+    <box top='335' left='149' width='90' height='56'>
+      <label>sx</label>
+    </box>
+  </image>
+  <image file='object/onject116.jpg'>
+  </image>
+  <image file='object/onject117.jpg'>
+    <box top='302' left='237' width='98' height='67'>
+      <label>sx</label>
+    </box>
+  </image>
+  <image file='object/onject118.jpg'>
+    <box top='252' left='281' width='88' height='72'>
+      <label>sx</label>
+    </box>
+  </image>
+  <image file='object/onject12.jpg'>
+    <box top='338' left='157' width='92' height='51'>
+      <label>sx</label>
+    </box>
+  </image>
+  <image file='object/onject120.jpg'>
+    <box top='311' left='170' width='67' height='53'>
+      <label>sx</label>
+    </box>
+  </image>
+  <image file='object/onject121.jpg'>
+    <box top='278' left='216' width='38' height='34'>
+      <label>sx</label>
+    </box>
+  </image>
+  <image file='object/onject122.jpg'>
+    <box top='322' left='200' width='93' height='48'>
+      <label>sx</label>
+    </box>
+  </image>
+  <image file='object/onject123.jpg'>
+    <box top='317' left='337' width='82' height='49'>
+      <label>sx</label>
+    </box>
+  </image>
+  <image file='object/onject124.jpg'>
+    <box top='312' left='281' width='97' height='49'>
+      <label>sx</label>
+    </box>
+  </image>
+  <image file='object/onject125.jpg'>
+    <box top='315' left='149' width='86' height='54'>
+      <label>sx</label>
+    </box>
+  </image>
+  <image file='object/onject126.jpg'>
+    <box top='226' left='285' width='81' height='72'>
+      <label>sx</label>
+    </box>
+  </image>
+  <image file='object/onject127.jpg'>
+    <box top='359' left='180' width='99' height='53'>
+      <label>sx</label>
+    </box>
+  </image>
+  <image file='object/onject128.jpg'>
+    <box top='298' left='250' width='105' height='64'>
+      <label>sx</label>
+    </box>
+  </image>
+  <image file='object/onject129.jpg'>
+    <box top='341' left='181' width='113' height='60'>
+      <label>sx</label>
+    </box>
+  </image>
+  <image file='object/onject13.jpg'>
+    <box top='304' left='274' width='108' height='57'>
+      <label>sx</label>
+    </box>
+  </image>
+  <image file='object/onject130.jpg'>
+  </image>
+  <image file='object/onject131.jpg'>
+    <box top='234' left='279' width='105' height='80'>
+      <label>sx</label>
+    </box>
+  </image>
+  <image file='object/onject132.jpg'>
+    <box top='329' left='128' width='67' height='44'>
+      <label>sx</label>
+    </box>
+  </image>
+  <image file='object/onject133.jpg'>
+    <box top='308' left='243' width='112' height='57'>
+      <label>sx</label>
+    </box>
+  </image>
+  <image file='object/onject135.jpg'>
+    <box top='299' left='299' width='91' height='54'>
+      <label>sx</label>
+    </box>
+  </image>
+<!--  <image file='object/onject136.jpg'>-->
+<!--    <box top='273' left='220' width='43' height='45'>-->
+<!--      <label>sx</label>-->
+<!--    </box>-->
+<!--  </image>-->
+<!--  <image file='object/onject137.jpg'>-->
+<!--    <box top='255' left='219' width='44' height='56'>-->
+<!--      <label>sx</label>-->
+<!--    </box>-->
+<!--  </image>-->
+  <image file='object/onject139.jpg'>
+    <box top='333' left='134' width='73' height='50'>
+      <label>sx</label>
+    </box>
+  </image>
+  <image file='object/onject14.jpg'>
+    <box top='302' left='289' width='125' height='58'>
+      <label>sx</label>
+    </box>
+  </image>
+  <image file='object/onject140.jpg'>
+  </image>
+  <image file='object/onject141.jpg'>
+  </image>
+  <image file='object/onject142.jpg'>
+    <box top='288' left='175' width='49' height='49'>
+      <label>sx</label>
+    </box>
+  </image>
+  <image file='object/onject144.jpg'>
+  </image>
+  <image file='object/onject145.jpg'>
+    <box top='322' left='135' width='77' height='39'>
+      <label>sx</label>
+    </box>
+  </image>
+  <image file='object/onject146.jpg'>
+    <box top='299' left='243' width='109' height='61'>
+      <label>sx</label>
+    </box>
+  </image>
+  <image file='object/onject147.jpg'>
+  </image>
+  <image file='object/onject148.jpg'>
+  </image>
+  <image file='object/onject149.jpg'>
+    <box top='320' left='170' width='91' height='53'>
+      <label>sx</label>
+    </box>
+  </image>
+  <image file='object/onject15.jpg'>
+    <box top='321' left='164' width='108' height='59'>
+      <label>sx</label>
+    </box>
+  </image>
+  <image file='object/onject150.jpg'>
+    <box top='274' left='268' width='51' height='50'>
+      <label>sx</label>
+    </box>
+  </image>
+  <image file='object/onject151.jpg'>
+    <box top='326' left='137' width='80' height='53'>
+      <label>sx</label>
+    </box>
+  </image>
+  <image file='object/onject152.jpg'>
+    <box top='373' left='167' width='76' height='33'>
+      <label>sx</label>
+    </box>
+  </image>
+  <image file='object/onject154.jpg'>
+    <box top='325' left='184' width='108' height='51'>
+      <label>sx</label>
+    </box>
+  </image>
+  <image file='object/onject155.jpg'>
+    <box top='340' left='162' width='106' height='47'>
+      <label>sx</label>
+    </box>
+  </image>
+  <image file='object/onject156.jpg'>
+    <box top='296' left='260' width='98' height='54'>
+      <label>sx</label>
+    </box>
+  </image>
+  <image file='object/onject157.jpg'>
+  </image>
+  <image file='object/onject158.jpg'>
+    <box top='329' left='144' width='82' height='46'>
+      <label>sx</label>
+    </box>
+  </image>
+  <image file='object/onject16.jpg'>
+    <box top='334' left='246' width='67' height='44'>
+      <label>sx</label>
+    </box>
+  </image>
+  <image file='object/onject160.jpg'>
+    <box top='317' left='166' width='91' height='53'>
+      <label>sx</label>
+    </box>
+  </image>
+  <image file='object/onject161.jpg'>
+    <box top='314' left='285' width='104' height='63'>
+      <label>sx</label>
+    </box>
+  </image>
+  <image file='object/onject162.jpg'>
+    <box top='310' left='195' width='100' height='59'>
+      <label>sx</label>
+    </box>
+  </image>
+  <image file='object/onject164.jpg'>
+  </image>
+  <image file='object/onject165.jpg'>
+  </image>
+  <image file='object/onject166.jpg'>
+    <box top='316' left='221' width='120' height='54'>
+      <label>sx</label>
+    </box>
+  </image>
+  <image file='object/onject167.jpg'>
+    <box top='314' left='289' width='91' height='44'>
+      <label>sx</label>
+    </box>
+  </image>
+  <image file='object/onject168.jpg'>
+    <box top='232' left='285' width='75' height='61'>
+      <label>sx</label>
+    </box>
+  </image>
+  <image file='object/onject169.jpg'>
+  </image>
+  <image file='object/onject17.jpg'>
+    <box top='288' left='196' width='96' height='63'>
+      <label>sx</label>
+    </box>
+  </image>
+  <image file='object/onject170.jpg'>
+  </image>
+  <image file='object/onject171.jpg'>
+    <box top='290' left='240' width='99' height='63'>
+      <label>sx</label>
+    </box>
+  </image>
+  <image file='object/onject172.jpg'>
+    <box top='326' left='271' width='121' height='52'>
+      <label>sx</label>
+    </box>
+  </image>
+  <image file='object/onject173.jpg'>
+    <box top='323' left='141' width='97' height='58'>
+      <label>sx</label>
+    </box>
+  </image>
+  <image file='object/onject174.jpg'>
+    <box top='334' left='173' width='95' height='53'>
+      <label>sx</label>
+    </box>
+  </image>
+  <image file='object/onject175.jpg'>
+    <box top='304' left='260' width='114' height='60'>
+      <label>sx</label>
+    </box>
+  </image>
+  <image file='object/onject176.jpg'>
+  </image>
+  <image file='object/onject178.jpg'>
+    <box top='294' left='284' width='47' height='40'>
+      <label>sx</label>
+    </box>
+  </image>
+<!--  <image file='object/onject179.jpg'>-->
+<!--    <box top='276' left='248' width='36' height='41'>-->
+<!--      <label>sx</label>-->
+<!--    </box>-->
+<!--  </image>-->
+  <image file='object/onject18.jpg'>
+    <box top='309' left='300' width='87' height='48'>
+      <label>sx</label>
+    </box>
+  </image>
+  <image file='object/onject180.jpg'>
+  </image>
+  <image file='object/onject181.jpg'>
+    <box top='310' left='159' width='96' height='57'>
+      <label>sx</label>
+    </box>
+  </image>
+<!--  <image file='object/onject182.jpg'>-->
+<!--    <box top='275' left='187' width='53' height='56'>-->
+<!--      <label>sx</label>-->
+<!--    </box>-->
+<!--  </image>-->
+  <image file='object/onject184.jpg'>
+    <box top='327' left='236' width='118' height='54'>
+      <label>sx</label>
+    </box>
+  </image>
+  <image file='object/onject185.jpg'>
+  </image>
+  <image file='object/onject186.jpg'>
+    <box top='298' left='183' width='68' height='48'>
+      <label>sx</label>
+    </box>
+  </image>
+  <image file='object/onject187.jpg'>
+  </image>
+  <image file='object/onject188.jpg'>
+    <box top='357' left='177' width='111' height='51'>
+      <label>sx</label>
+    </box>
+  </image>
+  <image file='object/onject189.jpg'>
+    <box top='319' left='288' width='117' height='55'>
+      <label>sx</label>
+    </box>
+  </image>
+  <image file='object/onject19.jpg'>
+    <box top='330' left='134' width='73' height='53'>
+      <label>sx</label>
+    </box>
+  </image>
+  <image file='object/onject190.jpg'>
+    <box top='308' left='155' width='96' height='59'>
+      <label>sx</label>
+    </box>
+  </image>
+  <image file='object/onject191.jpg'>
+    <box top='315' left='205' width='99' height='55'>
+      <label>sx</label>
+    </box>
+  </image>
+<!--  <image file='object/onject192.jpg'>-->
+<!--    <box top='270' left='225' width='36' height='43'>-->
+<!--      <label>sx</label>-->
+<!--    </box>-->
+<!--  </image>-->
+  <image file='object/onject193.jpg'>
+    <box top='363' left='217' width='110' height='54'>
+      <label>sx</label>
+    </box>
+  </image>
+  <image file='object/onject194.jpg'>
+    <box top='306' left='257' width='103' height='53'>
+      <label>sx</label>
+    </box>
+  </image>
+  <image file='object/onject195.jpg'>
+    <box top='288' left='181' width='52' height='50'>
+      <label>sx</label>
+    </box>
+  </image>
+  <image file='object/onject197.jpg'>
+    <box top='339' left='292' width='120' height='35'>
+      <label>sx</label>
+    </box>
+  </image>
+  <image file='object/onject198.jpg'>
+    <box top='290' left='241' width='96' height='52'>
+      <label>sx</label>
+    </box>
+  </image>
+  <image file='object/onject199.jpg'>
+    <box top='363' left='167' width='82' height='42'>
+      <label>sx</label>
+    </box>
+  </image>
+  <image file='object/onject2.jpg'>
+  </image>
+  <image file='object/onject20.jpg'>
+  </image>
+  <image file='object/onject201.jpg'>
+    <box top='330' left='183' width='106' height='53'>
+      <label>sx</label>
+    </box>
+  </image>
+  <image file='object/onject205.jpg'>
+  </image>
+  <image file='object/onject206.jpg'>
+    <box top='354' left='164' width='92' height='44'>
+      <label>sx</label>
+    </box>
+  </image>
+  <image file='object/onject207.jpg'>
+    <box top='328' left='148' width='86' height='50'>
+      <label>sx</label>
+    </box>
+  </image>
+  <image file='object/onject208.jpg'>
+  </image>
+  <image file='object/onject209.jpg'>
+  </image>
+  <image file='object/onject21.jpg'>
+  </image>
+  <image file='object/onject210.jpg'>
+  </image>
+  <image file='object/onject211.jpg'>
+    <box top='355' left='195' width='112' height='46'>
+      <label>sx</label>
+    </box>
+  </image>
+  <image file='object/onject212.jpg'>
+    <box top='312' left='287' width='124' height='51'>
+      <label>sx</label>
+    </box>
+  </image>
+<!--  <image file='object/onject213.jpg'>-->
+<!--    <box top='279' left='211' width='39' height='41'>-->
+<!--      <label>sx</label>-->
+<!--    </box>-->
+<!--  </image>-->
+  <image file='object/onject214.jpg'>
+  </image>
+  <image file='object/onject215.jpg'>
+    <box top='278' left='265' width='42' height='37'>
+      <label>sx</label>
+    </box>
+  </image>
+  <image file='object/onject216.jpg'>
+    <box top='317' left='294' width='110' height='45'>
+      <label>sx</label>
+    </box>
+  </image>
+  <image file='object/onject217.jpg'>
+  </image>
+  <image file='object/onject218.jpg'>
+    <box top='323' left='185' width='124' height='49'>
+      <label>sx</label>
+    </box>
+  </image>
+  <image file='object/onject219.jpg'>
+    <box top='335' left='231' width='118' height='40'>
+      <label>sx</label>
+    </box>
+  </image>
+  <image file='object/onject22.jpg'>
+    <box top='294' left='182' width='63' height='51'>
+      <label>sx</label>
+    </box>
+  </image>
+  <image file='object/onject220.jpg'>
+    <box top='335' left='300' width='112' height='40'>
+      <label>sx</label>
+    </box>
+  </image>
+  <image file='object/onject221.jpg'>
+    <box top='275' left='235' width='48' height='42'>
+      <label>sx</label>
+    </box>
+  </image>
+  <image file='object/onject222.jpg'>
+    <box top='324' left='290' width='109' height='50'>
+      <label>sx</label>
+    </box>
+  </image>
+<!--  <image file='object/onject223.jpg'>-->
+<!--    <box top='277' left='228' width='38' height='42'>-->
+<!--      <label>sx</label>-->
+<!--    </box>-->
+<!--  </image>-->
+  <image file='object/onject224.jpg'>
+    <box top='333' left='139' width='68' height='44'>
+      <label>sx</label>
+    </box>
+  </image>
+  <image file='object/onject226.jpg'>
+    <box top='304' left='318' width='45' height='39'>
+      <label>sx</label>
+    </box>
+  </image>
+<!--  <image file='object/onject227.jpg'>-->
+<!--    <box top='288' left='280' width='40' height='46'>-->
+<!--      <label>sx</label>-->
+<!--    </box>-->
+<!--  </image>-->
+  <image file='object/onject228.jpg'>
+    <box top='363' left='152' width='89' height='35'>
+      <label>sx</label>
+    </box>
+  </image>
+  <image file='object/onject229.jpg'>
+    <box top='376' left='198' width='108' height='55'>
+      <label>sx</label>
+    </box>
+  </image>
+  <image file='object/onject231.jpg'>
+    <box top='315' left='278' width='113' height='57'>
+      <label>sx</label>
+    </box>
+  </image>
+  <image file='object/onject232.jpg'>
+  </image>
+  <image file='object/onject234.jpg'>
+    <box top='327' left='150' width='84' height='54'>
+      <label>sx</label>
+    </box>
+  </image>
+  <image file='object/onject235.jpg'>
+    <box top='348' left='175' width='111' height='40'>
+      <label>sx</label>
+    </box>
+  </image>
+<!--  <image file='object/onject236.jpg'>-->
+<!--    <box top='276' left='238' width='30' height='39'>-->
+<!--      <label>sx</label>-->
+<!--    </box>-->
+<!--  </image>-->
+  <image file='object/onject237.jpg'>
+    <box top='356' left='179' width='109' height='48'>
+      <label>sx</label>
+    </box>
+  </image>
+  <image file='object/onject238.jpg'>
+    <box top='318' left='191' width='118' height='57'>
+      <label>sx</label>
+    </box>
+  </image>
+  <image file='object/onject239.jpg'>
+    <box top='332' left='210' width='129' height='45'>
+      <label>sx</label>
+    </box>
+  </image>
+<!--  <image file='object/onject24.jpg'>-->
+<!--    <box top='276' left='230' width='38' height='49'>-->
+<!--      <label>sx</label>-->
+<!--    </box>-->
+<!--  </image>-->
+  <image file='object/onject240.jpg'>
+    <box top='301' left='259' width='107' height='58'>
+      <label>sx</label>
+    </box>
+  </image>
+  <image file='object/onject241.jpg'>
+    <box top='301' left='239' width='104' height='61'>
+      <label>sx</label>
+    </box>
+  </image>
+  <image file='object/onject242.jpg'>
+    <box top='312' left='301' width='90' height='50'>
+      <label>sx</label>
+    </box>
+  </image>
+  <image file='object/onject244.jpg'>
+    <box top='325' left='247' width='128' height='53'>
+      <label>sx</label>
+    </box>
+  </image>
+  <image file='object/onject245.jpg'>
+    <box top='355' left='183' width='111' height='51'>
+      <label>sx</label>
+    </box>
+  </image>
+  <image file='object/onject246.jpg'>
+    <box top='334' left='253' width='119' height='43'>
+      <label>sx</label>
+    </box>
+  </image>
+  <image file='object/onject247.jpg'>
+    <box top='317' left='158' width='81' height='58'>
+      <label>sx</label>
+    </box>
+  </image>
+  <image file='object/onject248.jpg'>
+    <box top='275' left='211' width='51' height='44'>
+      <label>sx</label>
+    </box>
+  </image>
+  <image file='object/onject249.jpg'>
+    <box top='363' left='152' width='96' height='40'>
+      <label>sx</label>
+    </box>
+  </image>
+  <image file='object/onject25.jpg'>
+    <box top='337' left='299' width='125' height='42'>
+      <label>sx</label>
+    </box>
+  </image>
+  <image file='object/onject250.jpg'>
+    <box top='312' left='157' width='87' height='59'>
+      <label>sx</label>
+    </box>
+  </image>
+  <image file='object/onject251.jpg'>
+  </image>
+  <image file='object/onject253.jpg'>
+    <box top='334' left='157' width='85' height='39'>
+      <label>sx</label>
+    </box>
+  </image>
+  <image file='object/onject254.jpg'>
+    <box top='308' left='296' width='86' height='49'>
+      <label>sx</label>
+    </box>
+  </image>
+  <image file='object/onject255.jpg'>
+    <box top='298' left='267' width='89' height='58'>
+      <label>sx</label>
+    </box>
+  </image>
+  <image file='object/onject256.jpg'>
+    <box top='315' left='195' width='99' height='53'>
+      <label>sx</label>
+    </box>
+  </image>
+  <image file='object/onject257.jpg'>
+    <box top='308' left='276' width='117' height='68'>
+      <label>sx</label>
+    </box>
+  </image>
+  <image file='object/onject258.jpg'>
+    <box top='335' left='183' width='111' height='49'>
+      <label>sx</label>
+    </box>
+  </image>
+  <image file='object/onject259.jpg'>
+    <box top='335' left='230' width='113' height='42'>
+      <label>sx</label>
+    </box>
+  </image>
+  <image file='object/onject260.jpg'>
+    <box top='363' left='272' width='98' height='61'>
+      <label>sx</label>
+    </box>
+  </image>
+<!--  <image file='object/onject261.jpg'>-->
+<!--    <box top='259' left='220' width='41' height='48'>-->
+<!--      <label>sx</label>-->
+<!--    </box>-->
+<!--  </image>-->
+  <image file='object/onject262.jpg'>
+    <box top='337' left='151' width='89' height='51'>
+      <label>sx</label>
+    </box>
+  </image>
+  <image file='object/onject263.jpg'>
+    <box top='307' left='243' width='103' height='65'>
+      <label>sx</label>
+    </box>
+  </image>
+  <image file='object/onject264.jpg'>
+    <box top='312' left='205' width='95' height='57'>
+      <label>sx</label>
+    </box>
+  </image>
+  <image file='object/onject265.jpg'>
+    <box top='321' left='227' width='127' height='51'>
+      <label>sx</label>
+    </box>
+  </image>
+  <image file='object/onject267.jpg'>
+    <box top='296' left='179' width='86' height='59'>
+      <label>sx</label>
+    </box>
+  </image>
+  <image file='object/onject268.jpg'>
+    <box top='275' left='221' width='41' height='39'>
+      <label>sx</label>
+    </box>
+  </image>
+  <image file='object/onject269.jpg'>
+    <box top='360' left='148' width='85' height='44'>
+      <label>sx</label>
+    </box>
+  </image>
+  <image file='object/onject274.jpg'>
+    <box top='359' left='161' width='97' height='40'>
+      <label>sx</label>
+    </box>
+  </image>
+  <image file='object/onject275.jpg'>
+    <box top='321' left='147' width='82' height='48'>
+      <label>sx</label>
+    </box>
+  </image>
+  <image file='object/onject276.jpg'>
+  </image>
+  <image file='object/onject28.jpg'>
+    <box top='317' left='284' width='112' height='46'>
+      <label>sx</label>
+    </box>
+  </image>
+  <image file='object/onject280.jpg'>
+    <box top='294' left='296' width='88' height='54'>
+      <label>sx</label>
+    </box>
+  </image>
+  <image file='object/onject281.jpg'>
+  </image>
+<!--  <image file='object/onject282.jpg'>-->
+<!--    <box top='272' left='235' width='32' height='44'>-->
+<!--      <label>sx</label>-->
+<!--    </box>-->
+<!--  </image>-->
+  <image file='object/onject284.jpg'>
+    <box top='355' left='187' width='102' height='48'>
+      <label>sx</label>
+    </box>
+  </image>
+  <image file='object/onject285.jpg'>
+    <box top='305' left='280' width='135' height='57'>
+      <label>sx</label>
+    </box>
+  </image>
+  <image file='object/onject286.jpg'>
+    <box top='329' left='233' width='116' height='54'>
+      <label>sx</label>
+    </box>
+  </image>
+  <image file='object/onject287.jpg'>
+    <box top='352' left='192' width='100' height='47'>
+      <label>sx</label>
+    </box>
+  </image>
+<!--  <image file='object/onject288.jpg'>-->
+<!--    <box top='280' left='248' width='40' height='45'>-->
+<!--      <label>sx</label>-->
+<!--    </box>-->
+<!--  </image>-->
+  <image file='object/onject29.jpg'>
+  </image>
+  <image file='object/onject290.jpg'>
+  </image>
+  <image file='object/onject291.jpg'>
+    <box top='309' left='234' width='120' height='62'>
+      <label>sx</label>
+    </box>
+  </image>
+  <image file='object/onject292.jpg'>
+    <box top='338' left='176' width='126' height='53'>
+      <label>sx</label>
+    </box>
+  </image>
+  <image file='object/onject293.jpg'>
+    <box top='330' left='142' width='88' height='55'>
+      <label>sx</label>
+    </box>
+  </image>
+  <image file='object/onject294.jpg'>
+  </image>
+  <image file='object/onject295.jpg'>
+    <box top='341' left='194' width='113' height='49'>
+      <label>sx</label>
+    </box>
+  </image>
+  <image file='object/onject296.jpg'>
+    <box top='288' left='209' width='108' height='63'>
+      <label>sx</label>
+    </box>
+  </image>
+  <image file='object/onject297.jpg'>
+    <box top='369' left='262' width='107' height='46'>
+      <label>sx</label>
+    </box>
+  </image>
+  <image file='object/onject298.jpg'>
+    <box top='308' left='274' width='113' height='56'>
+      <label>sx</label>
+    </box>
+  </image>
+  <image file='object/onject299.jpg'>
+    <box top='328' left='292' width='111' height='48'>
+      <label>sx</label>
+    </box>
+  </image>
+  <image file='object/onject301.jpg'>
+  </image>
+  <image file='object/onject303.jpg'>
+    <box top='318' left='160' width='99' height='51'>
+      <label>sx</label>
+    </box>
+  </image>
+  <image file='object/onject304.jpg'>
+    <box top='312' left='161' width='89' height='51'>
+      <label>sx</label>
+    </box>
+  </image>
+  <image file='object/onject305.jpg'>
+    <box top='321' left='273' width='114' height='62'>
+      <label>sx</label>
+    </box>
+  </image>
+  <image file='object/onject306.jpg'>
+    <box top='313' left='299' width='92' height='41'>
+      <label>sx</label>
+    </box>
+  </image>
+  <image file='object/onject307.jpg'>
+    <box top='322' left='153' width='105' height='55'>
+      <label>sx</label>
+    </box>
+  </image>
+  <image file='object/onject308.jpg'>
+    <box top='324' left='284' width='101' height='36'>
+      <label>sx</label>
+    </box>
+  </image>
+  <image file='object/onject309.jpg'>
+    <box top='275' left='205' width='48' height='46'>
+      <label>sx</label>
+    </box>
+  </image>
+  <image file='object/onject310.jpg'>
+    <box top='296' left='262' width='85' height='59'>
+      <label>sx</label>
+    </box>
+  </image>
+  <image file='object/onject311.jpg'>
+    <box top='293' left='266' width='94' height='52'>
+      <label>sx</label>
+    </box>
+  </image>
+  <image file='object/onject312.jpg'>
+    <box top='289' left='176' width='67' height='58'>
+      <label>sx</label>
+    </box>
+  </image>
+  <image file='object/onject313.jpg'>
+  </image>
+  <image file='object/onject314.jpg'>
+  </image>
+  <image file='object/onject315.jpg'>
+  </image>
+  <image file='object/onject318.jpg'>
+    <box top='329' left='135' width='70' height='49'>
+      <label>sx</label>
+    </box>
+  </image>
+  <image file='object/onject319.jpg'>
+  </image>
+  <image file='object/onject32.jpg'>
+    <box top='334' left='235' width='118' height='38'>
+      <label>sx</label>
+    </box>
+  </image>
+  <image file='object/onject37.jpg'>
+  </image>
+  <image file='object/onject38.jpg'>
+    <box top='327' left='159' width='85' height='47'>
+      <label>sx</label>
+    </box>
+  </image>
+  <image file='object/onject39.jpg'>
+    <box top='333' left='140' width='71' height='46'>
+      <label>sx</label>
+    </box>
+  </image>
+  <image file='object/onject49.jpg'>
+    <box top='320' left='213' width='91' height='46'>
+      <label>sx</label>
+    </box>
+  </image>
+  <image file='object/onject5.jpg'>
+    <box top='278' left='249' width='47' height='40'>
+      <label>sx</label>
+    </box>
+  </image>
+  <image file='object/onject51.jpg'>
+    <box top='304' left='283' width='89' height='51'>
+      <label>sx</label>
+    </box>
+  </image>
+  <image file='object/onject52.jpg'>
+    <box top='305' left='297' width='117' height='43'>
+      <label>sx</label>
+    </box>
+  </image>
+  <image file='object/onject53.jpg'>
+    <box top='328' left='147' width='90' height='53'>
+      <label>sx</label>
+    </box>
+  </image>
+  <image file='object/onject54.jpg'>
+    <box top='295' left='285' width='95' height='52'>
+      <label>sx</label>
+    </box>
+  </image>
+  <image file='object/onject55.jpg'>
+    <box top='332' left='138' width='66' height='45'>
+      <label>sx</label>
+    </box>
+  </image>
+  <image file='object/onject56.jpg'>
+    <box top='375' left='199' width='106' height='49'>
+      <label>sx</label>
+    </box>
+  </image>
+  <image file='object/onject57.jpg'>
+    <box top='328' left='211' width='108' height='50'>
+      <label>sx</label>
+    </box>
+  </image>
+  <image file='object/onject58.jpg'>
+  </image>
+  <image file='object/onject59.jpg'>
+  </image>
+  <image file='object/onject6.jpg'>
+    <box top='332' left='231' width='116' height='46'>
+      <label>sx</label>
+    </box>
+  </image>
+  <image file='object/onject61.jpg'>
+    <box top='317' left='181' width='95' height='56'>
+      <label>sx</label>
+    </box>
+  </image>
+  <image file='object/onject62.jpg'>
+    <box top='229' left='284' width='89' height='67'>
+      <label>sx</label>
+    </box>
+  </image>
+<!--  <image file='object/onject63.jpg'>-->
+<!--    <box top='276' left='271' width='42' height='43'>-->
+<!--      <label>sx</label>-->
+<!--    </box>-->
+<!--  </image>-->
+  <image file='object/onject64.jpg'>
+    <box top='327' left='165' width='78' height='46'>
+      <label>sx</label>
+    </box>
+  </image>
+  <image file='object/onject65.jpg'>
+  </image>
+  <image file='object/onject66.jpg'>
+    <box top='355' left='156' width='104' height='48'>
+      <label>sx</label>
+    </box>
+  </image>
+  <image file='object/onject67.jpg'>
+    <box top='295' left='248' width='108' height='58'>
+      <label>sx</label>
+    </box>
+  </image>
+  <image file='object/onject68.jpg'>
+    <box top='291' left='175' width='54' height='45'>
+      <label>sx</label>
+    </box>
+  </image>
+  <image file='object/onject69.jpg'>
+  </image>
+  <image file='object/onject7.jpg'>
+    <box top='283' left='228' width='86' height='68'>
+      <label>sx</label>
+    </box>
+  </image>
+  <image file='object/onject70.jpg'>
+  </image>
+  <image file='object/onject71.jpg'>
+    <box top='342' left='174' width='102' height='49'>
+      <label>sx</label>
+    </box>
+  </image>
+<!--  <image file='object/onject72.jpg'>-->
+<!--    <box top='219' left='283' width='77' height='72'>-->
+<!--      <label>sx</label>-->
+<!--    </box>-->
+<!--  </image>-->
+  <image file='object/onject73.jpg'>
+    <box top='304' left='251' width='94' height='50'>
+      <label>sx</label>
+    </box>
+  </image>
+  <image file='object/onject76.jpg'>
+    <box top='300' left='274' width='110' height='53'>
+      <label>sx</label>
+    </box>
+  </image>
+  <image file='object/onject77.jpg'>
+    <box top='293' left='184' width='59' height='51'>
+      <label>sx</label>
+    </box>
+  </image>
+  <image file='object/onject78.jpg'>
+    <box top='291' left='276' width='103' height='64'>
+      <label>sx</label>
+    </box>
+  </image>
+  <image file='object/onject79.jpg'>
+    <box top='297' left='247' width='107' height='63'>
+      <label>sx</label>
+    </box>
+  </image>
+  <image file='object/onject8.jpg'>
+    <box top='373' left='265' width='105' height='50'>
+      <label>sx</label>
+    </box>
+  </image>
+  <image file='object/onject80.jpg'>
+    <box top='366' left='268' width='105' height='52'>
+      <label>sx</label>
+    </box>
+  </image>
+  <image file='object/onject81.jpg'>
+    <box top='310' left='172' width='87' height='52'>
+      <label>sx</label>
+    </box>
+  </image>
+  <image file='object/onject82.jpg'>
+  </image>
+  <image file='object/onject83.jpg'>
+    <box top='324' left='192' width='115' height='47'>
+      <label>sx</label>
+    </box>
+  </image>
+  <image file='object/onject84.jpg'>
+    <box top='294' left='311' width='76' height='36'>
+      <label>sx</label>
+    </box>
+  </image>
+  <image file='object/onject85.jpg'>
+  </image>
+  <image file='object/onject88.jpg'>
+    <box top='297' left='325' width='71' height='46'>
+      <label>sx</label>
+    </box>
+  </image>
+  <image file='object/onject89.jpg'>
+    <box top='276' left='261' width='41' height='40'>
+      <label>sx</label>
+    </box>
+  </image>
+  <image file='object/onject9.jpg'>
+    <box top='323' left='255' width='119' height='47'>
+      <label>sx</label>
+    </box>
+  </image>
+<!--  <image file='object/onject90.jpg'>-->
+<!--    <box top='268' left='233' width='45' height='49'>-->
+<!--      <label>sx</label>-->
+<!--    </box>-->
+<!--  </image>-->
+  <image file='object/onject91.jpg'>
+    <box top='313' left='142' width='75' height='49'>
+      <label>sx</label>
+    </box>
+  </image>
+  <image file='object/onject92.jpg'>
+  </image>
+  <image file='object/onject93.jpg'>
+    <box top='300' left='295' width='81' height='50'>
+      <label>sx</label>
+    </box>
+  </image>
+  <image file='object/onject94.jpg'>
+    <box top='319' left='163' width='115' height='57'>
+      <label>sx</label>
+    </box>
+  </image>
+  <image file='object/onject95.jpg'>
+    <box top='325' left='343' width='70' height='48'>
+      <label>sx</label>
+    </box>
+  </image>
+  <image file='object/onject96.jpg'>
+    <box top='305' left='255' width='101' height='58'>
+      <label>sx</label>
+    </box>
+  </image>
+  <image file='object/onject97.jpg'>
+    <box top='329' left='135' width='79' height='51'>
+      <label>sx</label>
+    </box>
+  </image>
+  <image file='object/onject98.jpg'>
+  </image>
+  <image file='object/onject99.jpg'>
+    <box top='316' left='150' width='94' height='50'>
+      <label>sx</label>
+    </box>
+  </image>
+</images>
+</dataset>

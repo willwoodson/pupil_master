@@ -1,0 +1,1134 @@
+<?xml version='1.0' encoding='ISO-8859-1'?>
+<?xml-stylesheet type='text/xsl' href='image_metadata_stylesheet.xsl'?>
+<dataset>
+<name>imglab dataset</name>
+<comment>Created by imglab tool.</comment>
+<images>
+  <image file='object/onject1.jpg'>
+    <box top='266' left='486' width='34' height='55'>
+      <label>mf</label>
+    </box>
+  </image>
+  <image file='object/onject10.jpg'>
+    <box top='251' left='310' width='44' height='49'>
+      <label>mf</label>
+    </box>
+  </image>
+  <image file='object/onject100.jpg'>
+  </image>
+  <image file='object/onject101.jpg'>
+  </image>
+  <image file='object/onject102.jpg'>
+    <box top='229' left='477' width='36' height='64'>
+      <label>mf</label>
+    </box>
+  </image>
+  <image file='object/onject103.jpg'>
+    <box top='317' left='395' width='51' height='46'>
+      <label>mf</label>
+    </box>
+  </image>
+  <image file='object/onject104.jpg'>
+    <box top='252' left='348' width='47' height='51'>
+      <label>mf</label>
+    </box>
+  </image>
+  <image file='object/onject105.jpg'>
+    <box top='248' left='323' width='64' height='75'>
+      <label>mf</label>
+    </box>
+  </image>
+  <image file='object/onject106.jpg'>
+    <box top='248' left='289' width='56' height='59'>
+      <label>mf</label>
+    </box>
+  </image>
+  <image file='object/onject108.jpg'>
+    <box top='224' left='301' width='62' height='70'>
+      <label>mf</label>
+    </box>
+  </image>
+  <image file='object/onject109.jpg'>
+    <box top='253' left='297' width='50' height='54'>
+      <label>mf</label>
+    </box>
+  </image>
+  <image file='object/onject11.jpg'>
+    <box top='248' left='301' width='60' height='64'>
+      <label>mf</label>
+    </box>
+  </image>
+  <image file='object/onject110.jpg'>
+    <box top='214' left='420' width='34' height='39'>
+      <label>mf</label>
+    </box>
+  </image>
+  <image file='object/onject112.jpg'>
+    <box top='237' left='402' width='41' height='49'>
+      <label>mf</label>
+    </box>
+  </image>
+  <image file='object/onject113.jpg'>
+  </image>
+  <image file='object/onject115.jpg'>
+    <box top='247' left='291' width='47' height='48'>
+      <label>mf</label>
+    </box>
+  </image>
+  <image file='object/onject116.jpg'>
+  </image>
+  <image file='object/onject117.jpg'>
+    <box top='266' left='432' width='39' height='51'>
+      <label>mf</label>
+    </box>
+  </image>
+  <image file='object/onject118.jpg'>
+    <box top='238' left='480' width='39' height='64'>
+      <label>mf</label>
+    </box>
+  </image>
+  <image file='object/onject12.jpg'>
+    <box top='246' left='332' width='57' height='64'>
+      <label>mf</label>
+    </box>
+  </image>
+  <image file='object/onject120.jpg'>
+    <box top='250' left='317' width='60' height='61'>
+      <label>mf</label>
+    </box>
+  </image>
+  <image file='object/onject121.jpg'>
+    <box top='245' left='296' width='47' height='51'>
+      <label>mf</label>
+    </box>
+  </image>
+  <image file='object/onject122.jpg'>
+    <box top='258' left='383' width='45' height='48'>
+      <label>mf</label>
+    </box>
+  </image>
+  <image file='object/onject123.jpg'>
+    <box top='229' left='421' width='29' height='29'>
+      <label>mf</label>
+    </box>
+  </image>
+  <image file='object/onject124.jpg'>
+    <box top='222' left='394' width='35' height='34'>
+      <label>mf</label>
+    </box>
+  </image>
+  <image file='object/onject125.jpg'>
+    <box top='243' left='293' width='61' height='74'>
+      <label>mf</label>
+    </box>
+  </image>
+  <image file='object/onject126.jpg'>
+    <box top='234' left='472' width='39' height='70'>
+      <label>mf</label>
+    </box>
+  </image>
+  <image file='object/onject127.jpg'>
+    <box top='261' left='315' width='39' height='46'>
+      <label>mf</label>
+    </box>
+  </image>
+  <image file='object/onject128.jpg'>
+    <box top='251' left='442' width='43' height='52'>
+      <label>mf</label>
+    </box>
+  </image>
+  <image file='object/onject129.jpg'>
+    <box top='278' left='366' width='46' height='49'>
+      <label>mf</label>
+    </box>
+  </image>
+  <image file='object/onject13.jpg'>
+    <box top='224' left='431' width='35' height='39'>
+      <label>mf</label>
+    </box>
+  </image>
+  <image file='object/onject130.jpg'>
+  </image>
+  <image file='object/onject131.jpg'>
+    <box top='239' left='481' width='37' height='60'>
+      <label>mf</label>
+    </box>
+  </image>
+  <image file='object/onject132.jpg'>
+    <box top='253' left='252' width='49' height='51'>
+      <label>mf</label>
+    </box>
+  </image>
+  <image file='object/onject133.jpg'>
+    <box top='262' left='434' width='37' height='48'>
+      <label>mf</label>
+    </box>
+  </image>
+  <image file='object/onject135.jpg'>
+    <box top='224' left='397' width='30' height='38'>
+      <label>mf</label>
+    </box>
+  </image>
+  <image file='object/onject136.jpg'>
+    <box top='259' left='304' width='39' height='49'>
+      <label>mf</label>
+    </box>
+  </image>
+  <image file='object/onject137.jpg'>
+    <box top='243' left='318' width='58' height='76'>
+      <label>mf</label>
+    </box>
+  </image>
+  <image file='object/onject139.jpg'>
+    <box top='257' left='270' width='43' height='46'>
+      <label>mf</label>
+    </box>
+  </image>
+  <image file='object/onject14.jpg'>
+    <box top='241' left='480' width='29' height='39'>
+      <label>mf</label>
+    </box>
+  </image>
+  <image file='object/onject140.jpg'>
+  </image>
+  <image file='object/onject141.jpg'>
+  </image>
+  <image file='object/onject142.jpg'>
+    <box top='251' left='284' width='52' height='61'>
+      <label>mf</label>
+    </box>
+  </image>
+  <image file='object/onject144.jpg'>
+  </image>
+  <image file='object/onject145.jpg'>
+    <box top='165' left='271' width='79' height='82'>
+      <label>mf</label>
+    </box>
+  </image>
+  <image file='object/onject146.jpg'>
+    <box top='265' left='454' width='40' height='54'>
+      <label>mf</label>
+    </box>
+  </image>
+  <image file='object/onject147.jpg'>
+  </image>
+  <image file='object/onject148.jpg'>
+    <box top='260' left='303' width='49' height='56'>
+      <label>mf</label>
+    </box>
+  </image>
+  <image file='object/onject149.jpg'>
+    <box top='254' left='331' width='52' height='51'>
+      <label>mf</label>
+    </box>
+  </image>
+  <image file='object/onject15.jpg'>
+    <box top='250' left='340' width='45' height='45'>
+      <label>mf</label>
+    </box>
+  </image>
+  <image file='object/onject150.jpg'>
+    <box top='263' left='373' width='43' height='49'>
+      <label>mf</label>
+    </box>
+  </image>
+  <image file='object/onject151.jpg'>
+    <box top='257' left='275' width='51' height='47'>
+      <label>mf</label>
+    </box>
+  </image>
+  <image file='object/onject152.jpg'>
+    <box top='271' left='279' width='38' height='39'>
+      <label>mf</label>
+    </box>
+  </image>
+  <image file='object/onject154.jpg'>
+    <box top='231' left='385' width='48' height='51'>
+      <label>mf</label>
+    </box>
+  </image>
+  <image file='object/onject155.jpg'>
+    <box top='245' left='345' width='50' height='54'>
+      <label>mf</label>
+    </box>
+  </image>
+  <image file='object/onject156.jpg'>
+    <box top='253' left='451' width='40' height='52'>
+      <label>mf</label>
+    </box>
+  </image>
+  <image file='object/onject157.jpg'>
+  </image>
+  <image file='object/onject158.jpg'>
+    <box top='254' left='294' width='46' height='50'>
+      <label>mf</label>
+    </box>
+  </image>
+  <image file='object/onject16.jpg'>
+  </image>
+  <image file='object/onject160.jpg'>
+    <box top='250' left='340' width='41' height='49'>
+      <label>mf</label>
+    </box>
+  </image>
+  <image file='object/onject161.jpg'>
+    <box top='272' left='483' width='32' height='50'>
+      <label>mf</label>
+    </box>
+  </image>
+  <image file='object/onject162.jpg'>
+    <box top='251' left='382' width='43' height='53'>
+      <label>mf</label>
+    </box>
+  </image>
+  <image file='object/onject164.jpg'>
+  </image>
+  <image file='object/onject165.jpg'>
+  </image>
+  <image file='object/onject166.jpg'>
+    <box top='237' left='427' width='40' height='46'>
+      <label>mf</label>
+    </box>
+  </image>
+  <image file='object/onject167.jpg'>
+    <box top='215' left='405' width='32' height='35'>
+      <label>mf</label>
+    </box>
+  </image>
+  <image file='object/onject168.jpg'>
+    <box top='228' left='468' width='41' height='72'>
+      <label>mf</label>
+    </box>
+  </image>
+  <image file='object/onject169.jpg'>
+  </image>
+  <image file='object/onject17.jpg'>
+    <box top='235' left='395' width='48' height='61'>
+      <label>mf</label>
+    </box>
+  </image>
+  <image file='object/onject170.jpg'>
+  </image>
+  <image file='object/onject171.jpg'>
+    <box top='250' left='442' width='42' height='59'>
+      <label>mf</label>
+    </box>
+  </image>
+  <image file='object/onject172.jpg'>
+    <box top='237' left='432' width='36' height='40'>
+      <label>mf</label>
+    </box>
+  </image>
+  <image file='object/onject173.jpg'>
+    <box top='255' left='306' width='42' height='49'>
+      <label>mf</label>
+    </box>
+  </image>
+  <image file='object/onject174.jpg'>
+    <box top='240' left='354' width='52' height='55'>
+      <label>mf</label>
+    </box>
+  </image>
+  <image file='object/onject175.jpg'>
+    <box top='260' left='474' width='38' height='54'>
+      <label>mf</label>
+    </box>
+  </image>
+  <image file='object/onject176.jpg'>
+  </image>
+  <image file='object/onject178.jpg'>
+    <box top='274' left='384' width='37' height='50'>
+      <label>mf</label>
+    </box>
+  </image>
+  <image file='object/onject179.jpg'>
+    <box top='258' left='328' width='36' height='51'>
+      <label>mf</label>
+    </box>
+  </image>
+  <image file='object/onject18.jpg'>
+    <box top='213' left='400' width='27' height='36'>
+      <label>mf</label>
+    </box>
+  </image>
+  <image file='object/onject180.jpg'>
+  </image>
+  <image file='object/onject181.jpg'>
+    <box top='251' left='335' width='38' height='45'>
+      <label>mf</label>
+    </box>
+  </image>
+  <image file='object/onject182.jpg'>
+    <box top='253' left='298' width='54' height='62'>
+      <label>mf</label>
+    </box>
+  </image>
+  <image file='object/onject184.jpg'>
+    <box top='226' left='419' width='37' height='48'>
+      <label>mf</label>
+    </box>
+  </image>
+  <image file='object/onject185.jpg'>
+  </image>
+  <image file='object/onject186.jpg'>
+    <box top='248' left='334' width='52' height='62'>
+      <label>mf</label>
+    </box>
+  </image>
+  <image file='object/onject187.jpg'>
+  </image>
+  <image file='object/onject188.jpg'>
+    <box top='246' left='336' width='35' height='43'>
+      <label>mf</label>
+    </box>
+  </image>
+  <image file='object/onject189.jpg'>
+    <box top='219' left='441' width='30' height='41'>
+      <label>mf</label>
+    </box>
+  </image>
+  <image file='object/onject19.jpg'>
+    <box top='255' left='263' width='42' height='52'>
+      <label>mf</label>
+    </box>
+  </image>
+  <image file='object/onject190.jpg'>
+    <box top='245' left='329' width='42' height='52'>
+      <label>mf</label>
+    </box>
+  </image>
+  <image file='object/onject191.jpg'>
+    <box top='260' left='388' width='40' height='51'>
+      <label>mf</label>
+    </box>
+  </image>
+  <image file='object/onject192.jpg'>
+    <box top='247' left='316' width='55' height='75'>
+      <label>mf</label>
+    </box>
+  </image>
+  <image file='object/onject193.jpg'>
+    <box top='306' left='412' width='41' height='49'>
+      <label>mf</label>
+    </box>
+  </image>
+  <image file='object/onject194.jpg'>
+    <box top='258' left='448' width='44' height='57'>
+      <label>mf</label>
+    </box>
+  </image>
+  <image file='object/onject195.jpg'>
+    <box top='247' left='297' width='50' height='67'>
+      <label>mf</label>
+    </box>
+  </image>
+  <image file='object/onject197.jpg'>
+    <box top='253' left='480' width='31' height='41'>
+      <label>mf</label>
+    </box>
+  </image>
+  <image file='object/onject198.jpg'>
+  </image>
+  <image file='object/onject199.jpg'>
+    <box top='261' left='279' width='39' height='40'>
+      <label>mf</label>
+    </box>
+  </image>
+  <image file='object/onject2.jpg'>
+  </image>
+  <image file='object/onject20.jpg'>
+  </image>
+  <image file='object/onject201.jpg'>
+    <box top='233' left='375' width='50' height='59'>
+      <label>mf</label>
+    </box>
+  </image>
+  <image file='object/onject205.jpg'>
+  </image>
+  <image file='object/onject206.jpg'>
+    <box top='260' left='304' width='32' height='37'>
+      <label>mf</label>
+    </box>
+  </image>
+  <image file='object/onject207.jpg'>
+    <box top='256' left='305' width='42' height='50'>
+      <label>mf</label>
+    </box>
+  </image>
+  <image file='object/onject208.jpg'>
+  </image>
+  <image file='object/onject209.jpg'>
+  </image>
+  <image file='object/onject21.jpg'>
+  </image>
+  <image file='object/onject210.jpg'>
+  </image>
+  <image file='object/onject211.jpg'>
+    <box top='262' left='348' width='35' height='35'>
+      <label>mf</label>
+    </box>
+  </image>
+  <image file='object/onject212.jpg'>
+    <box top='250' left='484' width='28' height='34'>
+      <label>mf</label>
+    </box>
+  </image>
+  <image file='object/onject213.jpg'>
+    <box top='252' left='298' width='43' height='52'>
+      <label>mf</label>
+    </box>
+  </image>
+  <image file='object/onject214.jpg'>
+  </image>
+  <image file='object/onject215.jpg'>
+    <box top='259' left='365' width='37' height='48'>
+      <label>mf</label>
+    </box>
+  </image>
+  <image file='object/onject216.jpg'>
+    <box top='223' left='451' width='30' height='39'>
+      <label>mf</label>
+    </box>
+  </image>
+  <image file='object/onject217.jpg'>
+  </image>
+  <image file='object/onject218.jpg'>
+    <box top='232' left='390' width='45' height='49'>
+      <label>mf</label>
+    </box>
+  </image>
+  <image file='object/onject219.jpg'>
+    <box top='227' left='411' width='33' height='39'>
+      <label>mf</label>
+    </box>
+  </image>
+  <image file='object/onject22.jpg'>
+    <box top='254' left='312' width='57' height='59'>
+      <label>mf</label>
+    </box>
+  </image>
+  <image file='object/onject220.jpg'>
+    <box top='256' left='481' width='31' height='38'>
+      <label>mf</label>
+    </box>
+  </image>
+  <image file='object/onject221.jpg'>
+    <box top='254' left='334' width='42' height='54'>
+      <label>mf</label>
+    </box>
+  </image>
+  <image file='object/onject222.jpg'>
+    <box top='232' left='455' width='28' height='38'>
+      <label>mf</label>
+    </box>
+  </image>
+  <image file='object/onject223.jpg'>
+    <box top='256' left='305' width='45' height='48'>
+      <label>mf</label>
+    </box>
+  </image>
+  <image file='object/onject224.jpg'>
+    <box top='256' left='270' width='43' height='49'>
+      <label>mf</label>
+    </box>
+  </image>
+  <image file='object/onject226.jpg'>
+    <box top='277' left='416' width='40' height='48'>
+      <label>mf</label>
+    </box>
+  </image>
+  <image file='object/onject227.jpg'>
+    <box top='272' left='377' width='42' height='52'>
+      <label>mf</label>
+    </box>
+  </image>
+  <image file='object/onject228.jpg'>
+    <box top='258' left='286' width='44' height='46'>
+      <label>mf</label>
+    </box>
+  </image>
+  <image file='object/onject229.jpg'>
+    <box top='320' left='391' width='39' height='42'>
+      <label>mf</label>
+    </box>
+  </image>
+  <image file='object/onject231.jpg'>
+    <box top='270' left='479' width='32' height='46'>
+      <label>mf</label>
+    </box>
+  </image>
+  <image file='object/onject232.jpg'>
+  </image>
+  <image file='object/onject234.jpg'>
+    <box top='249' left='305' width='54' height='58'>
+      <label>mf</label>
+    </box>
+  </image>
+  <image file='object/onject235.jpg'>
+    <box top='250' left='339' width='27' height='31'>
+      <label>mf</label>
+    </box>
+  </image>
+  <image file='object/onject236.jpg'>
+    <box top='263' left='301' width='44' height='51'>
+      <label>mf</label>
+    </box>
+  </image>
+  <image file='object/onject237.jpg'>
+    <box top='247' left='336' width='40' height='45'>
+      <label>mf</label>
+    </box>
+  </image>
+  <image file='object/onject238.jpg'>
+    <box top='240' left='393' width='40' height='50'>
+      <label>mf</label>
+    </box>
+  </image>
+  <image file='object/onject239.jpg'>
+    <box top='242' left='386' width='35' height='40'>
+      <label>mf</label>
+    </box>
+  </image>
+  <image file='object/onject24.jpg'>
+    <box top='258' left='311' width='46' height='60'>
+      <label>mf</label>
+    </box>
+  </image>
+  <image file='object/onject240.jpg'>
+    <box top='258' left='456' width='37' height='50'>
+      <label>mf</label>
+    </box>
+  </image>
+  <image file='object/onject241.jpg'>
+    <box top='264' left='432' width='41' height='45'>
+      <label>mf</label>
+    </box>
+  </image>
+  <image file='object/onject242.jpg'>
+    <box top='221' left='404' width='32' height='33'>
+      <label>mf</label>
+    </box>
+  </image>
+  <image file='object/onject244.jpg'>
+    <box top='238' left='429' width='27' height='34'>
+      <label>mf</label>
+    </box>
+  </image>
+  <image file='object/onject245.jpg'>
+    <box top='252' left='341' width='35' height='39'>
+      <label>mf</label>
+    </box>
+  </image>
+  <image file='object/onject246.jpg'>
+    <box top='236' left='433' width='29' height='36'>
+      <label>mf</label>
+    </box>
+  </image>
+  <image file='object/onject247.jpg'>
+    <box top='254' left='317' width='42' height='46'>
+      <label>mf</label>
+    </box>
+  </image>
+  <image file='object/onject248.jpg'>
+    <box top='251' left='307' width='41' height='47'>
+      <label>mf</label>
+    </box>
+  </image>
+  <image file='object/onject249.jpg'>
+    <box top='256' left='292' width='42' height='48'>
+      <label>mf</label>
+    </box>
+  </image>
+  <image file='object/onject25.jpg'>
+    <box top='268' left='495' width='27' height='36'>
+      <label>mf</label>
+    </box>
+  </image>
+  <image file='object/onject250.jpg'>
+    <box top='254' left='306' width='54' height='61'>
+      <label>mf</label>
+    </box>
+  </image>
+  <image file='object/onject251.jpg'>
+  </image>
+  <image file='object/onject253.jpg'>
+    <box top='252' left='320' width='51' height='52'>
+      <label>mf</label>
+    </box>
+  </image>
+  <image file='object/onject254.jpg'>
+    <box top='212' left='392' width='30' height='39'>
+      <label>mf</label>
+    </box>
+  </image>
+  <image file='object/onject255.jpg'>
+    <box top='251' left='449' width='46' height='56'>
+      <label>mf</label>
+    </box>
+  </image>
+  <image file='object/onject256.jpg'>
+    <box top='254' left='375' width='49' height='46'>
+      <label>mf</label>
+    </box>
+  </image>
+  <image file='object/onject257.jpg'>
+    <box top='266' left='489' width='37' height='56'>
+      <label>mf</label>
+    </box>
+  </image>
+  <image file='object/onject258.jpg'>
+    <box top='248' left='341' width='39' height='38'>
+      <label>mf</label>
+    </box>
+  </image>
+  <image file='object/onject259.jpg'>
+    <box top='234' left='397' width='36' height='38'>
+      <label>mf</label>
+    </box>
+  </image>
+  <image file='object/onject260.jpg'>
+    <box top='313' left='468' width='34' height='38'>
+      <label>mf</label>
+    </box>
+  </image>
+  <image file='object/onject261.jpg'>
+    <box top='244' left='315' width='54' height='75'>
+      <label>mf</label>
+    </box>
+  </image>
+  <image file='object/onject262.jpg'>
+    <box top='251' left='293' width='43' height='46'>
+      <label>mf</label>
+    </box>
+  </image>
+  <image file='object/onject263.jpg'>
+    <box top='267' left='439' width='40' height='53'>
+      <label>mf</label>
+    </box>
+  </image>
+  <image file='object/onject264.jpg'>
+    <box top='256' left='379' width='48' height='43'>
+      <label>mf</label>
+    </box>
+  </image>
+  <image file='object/onject265.jpg'>
+    <box top='238' left='442' width='35' height='45'>
+      <label>mf</label>
+    </box>
+  </image>
+  <image file='object/onject267.jpg'>
+    <box top='234' left='363' width='52' height='56'>
+      <label>mf</label>
+    </box>
+  </image>
+  <image file='object/onject268.jpg'>
+    <box top='246' left='313' width='56' height='76'>
+      <label>mf</label>
+    </box>
+  </image>
+  <image file='object/onject269.jpg'>
+    <box top='247' left='284' width='48' height='60'>
+      <label>mf</label>
+    </box>
+  </image>
+  <image file='object/onject274.jpg'>
+    <box top='261' left='290' width='33' height='36'>
+      <label>mf</label>
+    </box>
+  </image>
+  <image file='object/onject275.jpg'>
+    <box top='234' left='316' width='54' height='64'>
+      <label>mf</label>
+    </box>
+  </image>
+  <image file='object/onject276.jpg'>
+  </image>
+  <image file='object/onject28.jpg'>
+    <box top='220' left='423' width='34' height='38'>
+      <label>mf</label>
+    </box>
+  </image>
+  <image file='object/onject280.jpg'>
+    <box top='203' left='388' width='30' height='35'>
+      <label>mf</label>
+    </box>
+  </image>
+  <image file='object/onject281.jpg'>
+  </image>
+  <image file='object/onject282.jpg'>
+    <box top='258' left='300' width='39' height='49'>
+      <label>mf</label>
+    </box>
+  </image>
+  <image file='object/onject284.jpg'>
+    <box top='261' left='331' width='37' height='40'>
+      <label>mf</label>
+    </box>
+  </image>
+  <image file='object/onject285.jpg'>
+    <box top='243' left='477' width='34' height='43'>
+      <label>mf</label>
+    </box>
+  </image>
+  <image file='object/onject286.jpg'>
+    <box top='265' left='430' width='40' height='52'>
+      <label>mf</label>
+    </box>
+  </image>
+  <image file='object/onject287.jpg'>
+    <box top='280' left='370' width='40' height='49'>
+      <label>mf</label>
+    </box>
+  </image>
+  <image file='object/onject288.jpg'>
+    <box top='261' left='331' width='35' height='52'>
+      <label>mf</label>
+    </box>
+  </image>
+  <image file='object/onject29.jpg'>
+  </image>
+  <image file='object/onject290.jpg'>
+  </image>
+  <image file='object/onject291.jpg'>
+    <box top='257' left='445' width='31' height='47'>
+      <label>mf</label>
+    </box>
+  </image>
+  <image file='object/onject292.jpg'>
+  </image>
+  <image file='object/onject293.jpg'>
+    <box top='245' left='296' width='48' height='59'>
+      <label>mf</label>
+    </box>
+  </image>
+  <image file='object/onject294.jpg'>
+  </image>
+  <image file='object/onject295.jpg'>
+    <box top='241' left='382' width='39' height='44'>
+      <label>mf</label>
+    </box>
+  </image>
+  <image file='object/onject296.jpg'>
+    <box top='241' left='415' width='45' height='62'>
+      <label>mf</label>
+    </box>
+  </image>
+  <image file='object/onject297.jpg'>
+    <box top='305' left='460' width='34' height='43'>
+      <label>mf</label>
+    </box>
+  </image>
+  <image file='object/onject298.jpg'>
+    <box top='264' left='480' width='32' height='50'>
+      <label>mf</label>
+    </box>
+  </image>
+  <image file='object/onject299.jpg'>
+    <box top='265' left='495' width='31' height='51'>
+      <label>mf</label>
+    </box>
+  </image>
+  <image file='object/onject301.jpg'>
+  </image>
+  <image file='object/onject303.jpg'>
+    <box top='253' left='329' width='47' height='44'>
+      <label>mf</label>
+    </box>
+  </image>
+  <image file='object/onject304.jpg'>
+    <box top='228' left='332' width='54' height='63'>
+      <label>mf</label>
+    </box>
+  </image>
+  <image file='object/onject305.jpg'>
+    <box top='263' left='488' width='30' height='53'>
+      <label>mf</label>
+    </box>
+  </image>
+  <image file='object/onject306.jpg'>
+    <box top='220' left='406' width='29' height='33'>
+      <label>mf</label>
+    </box>
+  </image>
+  <image file='object/onject307.jpg'>
+    <box top='246' left='321' width='41' height='54'>
+      <label>mf</label>
+    </box>
+  </image>
+  <image file='object/onject308.jpg'>
+    <box top='220' left='415' width='26' height='37'>
+      <label>mf</label>
+    </box>
+  </image>
+  <image file='object/onject309.jpg'>
+    <box top='242' left='308' width='39' height='57'>
+      <label>mf</label>
+    </box>
+  </image>
+  <image file='object/onject310.jpg'>
+    <box top='249' left='446' width='40' height='51'>
+      <label>mf</label>
+    </box>
+  </image>
+  <image file='object/onject311.jpg'>
+    <box top='250' left='458' width='37' height='57'>
+      <label>mf</label>
+    </box>
+  </image>
+  <image file='object/onject312.jpg'>
+    <box top='252' left='309' width='46' height='60'>
+      <label>mf</label>
+    </box>
+  </image>
+  <image file='object/onject313.jpg'>
+  </image>
+  <image file='object/onject314.jpg'>
+  </image>
+  <image file='object/onject315.jpg'>
+  </image>
+  <image file='object/onject318.jpg'>
+    <box top='257' left='271' width='51' height='58'>
+      <label>mf</label>
+    </box>
+  </image>
+  <image file='object/onject319.jpg'>
+  </image>
+  <image file='object/onject32.jpg'>
+    <box top='235' left='443' width='38' height='48'>
+      <label>mf</label>
+    </box>
+  </image>
+  <image file='object/onject37.jpg'>
+  </image>
+  <image file='object/onject38.jpg'>
+    <box top='255' left='320' width='43' height='45'>
+      <label>mf</label>
+    </box>
+  </image>
+  <image file='object/onject39.jpg'>
+    <box top='250' left='269' width='44' height='51'>
+      <label>mf</label>
+    </box>
+  </image>
+  <image file='object/onject49.jpg'>
+    <box top='265' left='395' width='38' height='40'>
+      <label>mf</label>
+    </box>
+  </image>
+  <image file='object/onject5.jpg'>
+    <box top='255' left='347' width='40' height='48'>
+      <label>mf</label>
+    </box>
+  </image>
+  <image file='object/onject51.jpg'>
+    <box top='202' left='377' width='28' height='33'>
+      <label>mf</label>
+    </box>
+  </image>
+  <image file='object/onject52.jpg'>
+    <box top='233' left='472' width='32' height='44'>
+      <label>mf</label>
+    </box>
+  </image>
+  <image file='object/onject53.jpg'>
+    <box top='248' left='304' width='52' height='56'>
+      <label>mf</label>
+    </box>
+  </image>
+  <image file='object/onject54.jpg'>
+    <box top='204' left='375' width='33' height='34'>
+      <label>mf</label>
+    </box>
+  </image>
+  <image file='object/onject55.jpg'>
+    <box top='252' left='259' width='45' height='52'>
+      <label>mf</label>
+    </box>
+  </image>
+  <image file='object/onject56.jpg'>
+    <box top='319' left='389' width='40' height='42'>
+      <label>mf</label>
+    </box>
+  </image>
+  <image file='object/onject57.jpg'>
+    <box top='234' left='386' width='38' height='47'>
+      <label>mf</label>
+    </box>
+  </image>
+  <image file='object/onject58.jpg'>
+  </image>
+  <image file='object/onject59.jpg'>
+  </image>
+  <image file='object/onject6.jpg'>
+    <box top='225' left='414' width='31' height='45'>
+      <label>mf</label>
+    </box>
+  </image>
+  <image file='object/onject61.jpg'>
+    <box top='249' left='349' width='43' height='51'>
+      <label>mf</label>
+    </box>
+  </image>
+  <image file='object/onject62.jpg'>
+    <box top='235' left='480' width='39' height='63'>
+      <label>mf</label>
+    </box>
+  </image>
+  <image file='object/onject63.jpg'>
+    <box top='259' left='372' width='32' height='52'>
+      <label>mf</label>
+    </box>
+  </image>
+  <image file='object/onject64.jpg'>
+    <box top='255' left='316' width='46' height='46'>
+      <label>mf</label>
+    </box>
+  </image>
+  <image file='object/onject65.jpg'>
+  </image>
+  <image file='object/onject66.jpg'>
+    <box top='260' left='296' width='31' height='35'>
+      <label>mf</label>
+    </box>
+  </image>
+  <image file='object/onject67.jpg'>
+    <box top='243' left='452' width='38' height='53'>
+      <label>mf</label>
+    </box>
+  </image>
+  <image file='object/onject68.jpg'>
+    <box top='254' left='286' width='47' height='57'>
+      <label>mf</label>
+    </box>
+  </image>
+  <image file='object/onject69.jpg'>
+  </image>
+  <image file='object/onject7.jpg'>
+    <box top='248' left='429' width='45' height='59'>
+      <label>mf</label>
+    </box>
+  </image>
+  <image file='object/onject70.jpg'>
+  </image>
+  <image file='object/onject71.jpg'>
+    <box top='241' left='348' width='39' height='44'>
+      <label>mf</label>
+    </box>
+  </image>
+  <image file='object/onject72.jpg'>
+    <box top='230' left='461' width='39' height='68'>
+      <label>mf</label>
+    </box>
+  </image>
+  <image file='object/onject73.jpg'>
+    <box top='245' left='440' width='35' height='53'>
+      <label>mf</label>
+    </box>
+  </image>
+  <image file='object/onject76.jpg'>
+    <box top='225' left='428' width='26' height='33'>
+      <label>mf</label>
+    </box>
+  </image>
+  <image file='object/onject77.jpg'>
+    <box top='256' left='314' width='46' height='54'>
+      <label>mf</label>
+    </box>
+  </image>
+  <image file='object/onject78.jpg'>
+    <box top='260' left='472' width='33' height='49'>
+      <label>mf</label>
+    </box>
+  </image>
+  <image file='object/onject79.jpg'>
+    <box top='251' left='448' width='37' height='53'>
+      <label>mf</label>
+    </box>
+  </image>
+  <image file='object/onject8.jpg'>
+    <box top='316' left='465' width='40' height='42'>
+      <label>mf</label>
+    </box>
+  </image>
+  <image file='object/onject80.jpg'>
+    <box top='310' left='469' width='35' height='46'>
+      <label>mf</label>
+    </box>
+  </image>
+  <image file='object/onject81.jpg'>
+    <box top='224' left='352' width='57' height='69'>
+      <label>mf</label>
+    </box>
+  </image>
+  <image file='object/onject82.jpg'>
+  </image>
+  <image file='object/onject83.jpg'>
+    <box top='239' left='394' width='44' height='50'>
+      <label>mf</label>
+    </box>
+  </image>
+  <image file='object/onject84.jpg'>
+    <box top='219' left='389' width='24' height='31'>
+      <label>mf</label>
+    </box>
+  </image>
+  <image file='object/onject85.jpg'>
+  </image>
+  <image file='object/onject88.jpg'>
+  </image>
+  <image file='object/onject89.jpg'>
+    <box top='262' left='351' width='40' height='52'>
+      <label>mf</label>
+    </box>
+  </image>
+  <image file='object/onject9.jpg'>
+    <box top='233' left='431' width='31' height='43'>
+      <label>mf</label>
+    </box>
+  </image>
+  <image file='object/onject90.jpg'>
+    <box top='255' left='321' width='43' height='52'>
+      <label>mf</label>
+    </box>
+  </image>
+  <image file='object/onject91.jpg'>
+    <box top='215' left='284' width='70' height='68'>
+      <label>mf</label>
+    </box>
+  </image>
+  <image file='object/onject92.jpg'>
+  </image>
+  <image file='object/onject93.jpg'>
+    <box top='220' left='386' width='30' height='30'>
+      <label>mf</label>
+    </box>
+  </image>
+  <image file='object/onject94.jpg'>
+    <box top='244' left='338' width='45' height='50'>
+      <label>mf</label>
+    </box>
+  </image>
+  <image file='object/onject95.jpg'>
+    <box top='246' left='419' width='28' height='28'>
+      <label>mf</label>
+    </box>
+  </image>
+  <image file='object/onject96.jpg'>
+    <box top='256' left='444' width='42' height='55'>
+      <label>mf</label>
+    </box>
+  </image>
+  <image file='object/onject97.jpg'>
+    <box top='254' left='268' width='61' height='56'>
+      <label>mf</label>
+    </box>
+  </image>
+  <image file='object/onject98.jpg'>
+  </image>
+  <image file='object/onject99.jpg'>
+    <box top='227' left='322' width='58' height='68'>
+      <label>mf</label>
+    </box>
+  </image>
+</images>
+</dataset>
