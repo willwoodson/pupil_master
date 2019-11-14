@@ -9,12 +9,10 @@ while True:
     _, frame = webcam.read()
 
     if cv2.waitKey(10) == 27:
-        break
+        break·
     else:
         pass
 
     cv2.imshow("Demo", frame)
-
-
 
 cv2.destroyAllWindows()

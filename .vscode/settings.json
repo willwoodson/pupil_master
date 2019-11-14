@@ -1,4 +1,5 @@
 {
-    "python.pythonPath": "/home/lz/anaconda3/envs/py36/bin/python",
-    "python.formatting.provider": "black"
+    "python.pythonPath": "C:\\Users\\will\\Anaconda3\\envs\\py36\\python.exe",
+    "python.formatting.provider": "black",
+    "aiXcoder.enableTelemetry": false
 }
