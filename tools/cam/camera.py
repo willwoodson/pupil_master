@@ -2,7 +2,7 @@ import cv2
 import time
 
 
-webcam = cv2.VideoCapture(0)
+webcam = cv2.VideoCapture(1)
 
 while True:
     # 我们从网络摄像头中得到一个新的画面

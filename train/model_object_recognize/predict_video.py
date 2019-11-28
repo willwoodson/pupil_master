@@ -14,12 +14,12 @@ dict = {0.0: "mf", 1.0: "cz", 2.0: "sx",3.0: "zb"}
 
 # 定义编解码器并创建 VideoWriter 对象
 fourcc = cv2.VideoWriter_fourcc(*"XVID")
-out = cv2.VideoWriter("../data_video/predict_object_recognize.avi", fourcc, 20.0, (1280, 480))
+out = cv2.VideoWriter("../../Data/data_video/predict_object_recognize.avi", fourcc, 20.0, (1280, 480))
 
-detector1 = dlib.fhog_object_detector("model/mf.svm")
-detector2 = dlib.fhog_object_detector("model/cz.svm")
-detector3 = dlib.fhog_object_detector("model/sx.svm")
-detector4 = dlib.fhog_object_detector("model/zb.svm")
+detector1 = dlib.fhog_object_detector("../../model/classify/mf.svm")
+detector2 = dlib.fhog_object_detector("../../model/classify/cz.svm")
+detector3 = dlib.fhog_object_detector("../../model/classify/sx.svm")
+detector4 = dlib.fhog_object_detector("../../model/classify/zb.svm")
 
 detectors = [detector1, detector2,detector3, detector4]
 
@@ -52,7 +52,7 @@ def draw_circle(frame, df):
 
     return frame
 
-cap = cv2.VideoCapture("../data_video/test.mp4")  # 参数为视频文件目录
+cap = cv2.VideoCapture("../../Data/data_video/test.avi")  # 参数为视频文件目录
 
 while True:
     ret, frame = cap.read()
@@ -68,7 +68,7 @@ while True:
     [boxes, confidences, detector_idxs] = dlib.fhog_object_detector.run_multiple(detectors, image, upsample_num_times=1,
                                                                                  adjust_threshold=0.0)
     for i in range(len(boxes)):
-        # print("detector {} found box {} with confidence {}.".format(detector_idxs[i], boxes[i], confidences[i]))
+        print("detector {} found box {} with confidence {}.".format(detector_idxs[i], boxes[i], confidences[i]))
         df.iloc[i, 0] = detector_idxs[i]
         df.iloc[i, 1] = boxes[i].left()
         df.iloc[i, 2] = boxes[i].top()
@@ -76,7 +76,7 @@ while True:
         df.iloc[i, 4] = boxes[i].bottom() - boxes[i].top()
         df.iloc[i, 5] = round(confidences[i], 6)
 
-    df.to_csv("../data_csv/predict_object_recognize.csv")
+    df.to_csv("../../Data/data_csv/predict_object_recognize.csv")
     t2 = time.time()
     print("检测耗时:", t2 - t1)
 

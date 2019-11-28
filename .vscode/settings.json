@@ -1,5 +1,5 @@
 {
-    "python.pythonPath": "C:\\Users\\will\\Anaconda3\\envs\\py36\\python.exe",
+    "python.pythonPath": "C:\\Users\\25699\\Anaconda3\\envs\\py36\\python.exe",
     "python.formatting.provider": "black",
     "aiXcoder.enableTelemetry": false
 }
