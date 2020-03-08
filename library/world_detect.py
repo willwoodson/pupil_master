@@ -14,8 +14,8 @@ class WorldDetect(object):
         # 得到待预测的目标值
         self.world_x = self.clf_world_x.predict(df)
         self.world_y = self.clf_world_y.predict(df)
-        print(round(self.world_x[0],3), round(self.world_y[0],3))
-        # print(self.world_y)
+        print("word_x:",round(self.world_x[0],3))
+        print("word_y:",round(self.world_y[0],3))
 
 
     def show(self,frame):
